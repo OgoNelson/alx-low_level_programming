@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - a program that prints out Programming is like building a multilingual puzzle using puts function
+ * main - a program that prints out a line using puts function
  * Return: 0 (means successful)
  */
 int main(void)
