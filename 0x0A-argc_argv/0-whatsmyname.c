@@ -1,4 +1,4 @@
-0-whatsmyname.c
+0 - whatsmyname.c
 
 #include <stdio.h>
 #include "main.h"
